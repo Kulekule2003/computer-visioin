@@ -1,0 +1,11 @@
+notebook
+pandas
+numpy
+matplotlib
+tensorflow
+torch
+torchvision
+torchaudio
+seaborn
+scikit-learn
+torch
